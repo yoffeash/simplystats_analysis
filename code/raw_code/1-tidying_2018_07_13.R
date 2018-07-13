@@ -1,5 +1,4 @@
-load("data/tidy_data",
-     "simply_data_before_processing_07-13-2018.rda")
+load("/cloud/project/data/tidy_data/simply_data_before_processing_07-13-2018.rda")
 library(tibble)
 library(tidytext)
 library(dplyr)
